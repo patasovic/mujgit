@@ -1,4 +1,2 @@
 laravel/
-github_token.txt
-.ssh/id_rsa
-.ssh/id_rsa.pub
+.ssh
